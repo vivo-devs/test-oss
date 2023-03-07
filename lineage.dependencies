@@ -1,0 +1,16 @@
+[
+	{
+		"repository":	"kernel_vivo_2026",
+		"target_path":	"kernel/vivo/2026"
+	},
+	{
+		"repository":	"vendor_vivo_2026",
+		"target_path":	"vendor/vivo/2026"
+	},
+	{
+		"remote":	"github",
+		"repository":	"LineageOS/android_device_mediatek_sepolicy_vndr",
+		"target_path":	"device/mediatek/sepolicy_vndr",
+		"branch":	"lineage-20"
+	}
+]

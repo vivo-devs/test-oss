@@ -1,0 +1,1 @@
+# Device tree for vivo V2026 (2026)
